@@ -9,3 +9,13 @@ How to solve unconstrained optimization problems by BCMO software package:
 Define the objective function in OptimProblem.m Define the necessary inputs (dimension, population size, maximum generation, bounds, etc.) in Main.m
 Run Main.m and wait until the optimization process done.
 Get output
+
+#Contributors
+- Thang Le-Duc
+- Quoc-Hung Nguyen
+- Hung Nguyen-Xuan
+
+# Funding Agency
+
+#References
+Thang Le-Duc, Quoc-Hung Nguyen, H. Nguyen-Xuan, Balancing Composite Motion Optimization, Information Sciences, 520, 250-270, 2020 https://www.sciencedirect.com/science/article/pii/S0020025520300773
