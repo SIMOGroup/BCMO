@@ -15,6 +15,9 @@ Get output
 - Quoc-Hung Nguyen
 - Hung Nguyen-Xuan
 
+# Python version
+https://github.com/ThangLe-duc/BCMO_Package_Python
+
 # Funding Agency
 Vingroup Innovation Foundation (VINIF) in project code VINIF.2019.DA04
 
