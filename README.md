@@ -23,3 +23,4 @@ Vingroup Innovation Foundation (VINIF) in project code VINIF.2019.DA04
 
 # References
 Thang Le-Duc, Quoc-Hung Nguyen, H. Nguyen-Xuan, Balancing Composite Motion Optimization, Information Sciences, 520, 250-270, 2020 https://www.sciencedirect.com/science/article/pii/S0020025520300773
+US Patent US20210224576A1 https://patents.google.com/patent/US20210224576A1/en
